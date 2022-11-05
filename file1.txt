@@ -1,1 +1,2 @@
 hi folks, i am checking git conflict concept from master branch
+hi folks, i am checking git conflict from testbranch
